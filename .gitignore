@@ -1,0 +1,13 @@
+.vscode
+.cache
+Build
+serial.log
+Kernel/subprojects/*
+!Kernel/subprojects/*.wrap
+Initrd/*
+Disks/*
+Ports/*
+!Ports/*.yml
+Toolchain/*
+InterfaceCompiler/lic
+*.xbstrap
